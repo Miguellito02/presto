@@ -1,2 +1,4 @@
 # presto
-# Bora lá
+## Bora lá
+
+-licensa GNU
